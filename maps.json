@@ -1625,30 +1625,6 @@
 {
 "arcs": [
 [
-306
-]
-],
-"type": "Polygon",
-"properties": {
-"NAME": "Greenland",
-"NAME_LONG": "Greenland",
-"ABBREV": "Grlnd.",
-"FORMAL_EN": "Greenland",
-"POP_EST": 57713,
-"POP_RANK": 8,
-"GDP_MD_EST": 2173,
-"POP_YEAR": 2017,
-"GDP_YEAR": 2015,
-"ISO_A2": "GL",
-"ISO_A3": "GRL",
-"CONTINENT": "North America",
-"REGION_UN": "Americas",
-"SUBREGION": "Northern America"
-}
-},
-{
-"arcs": [
-[
 -100,
 307,
 308,
